@@ -90,7 +90,7 @@ public class SoftassertTest {
 
 		soft.assertTrue(Confirmationalertmessage.isDisplayed());
 
-		System.out.println("Confirmationalertmessage " + Confirmationalertmessage.getText());
+		System.out.println("Confirmation alert message " + Confirmationalertmessage.getText());
 		
 		soft.assertAll();
 		driver.quit();
