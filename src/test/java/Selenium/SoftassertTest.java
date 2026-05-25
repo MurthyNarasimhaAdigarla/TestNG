@@ -94,6 +94,7 @@ public class SoftassertTest {
 		
 		soft.assertAll();
 		driver.quit();
+		System.out.println("Jagu first");
 
 
 
