@@ -94,7 +94,7 @@ public class SoftassertTest {
 		
 		soft.assertAll();
 		driver.quit();
-		System.out.println("Bhaskar first");
+		System.out.println("Bhaskar gadi changes");
 
 
 
